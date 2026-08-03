@@ -16,5 +16,12 @@ http://periodicos.unincor.br/index.php/revistaunincor/article/view/4474
 
 
 
-Perguntas:
+Perguntas e respostas:
 ​
+A primeira pergunta foi algo simples para IA entender com facilidade,"o que uma pessoa que está com raiva faz?" e IA respondeu trasmitindo a ideia que raiva é uma emoção que "ecoa" pelo corpo, utilizando o rosto como seu principal veículo de comunicação, tornando visível o que o indivíduo está sentindo interna, além de trazer informações como a expressão humana da raiva é demonstrada principalmente por arranjos de sinais na testa, nos olhos e na boca.
+
+A segunda pergunta foi "como sei quando uma pessoa está mentindo?", uma pergunta mais dificil para saber se IA entende como contar uma mentira é visivel a expressão humana, em sua resposta deu a entender que é necessario dentificar se uma pessoa está mentindo exige uma observação atenta das contradições entre a linguagem verbal e a não verbal, já que o corpo costuma expressar sentimentos que as palavras tentam esconder, que enquanto a comunicação verbal exterioriza o "ser social", a não verbal revela o "ser psicológico" e as emoções reais, pois mentir não traz uma expressão facial verdadeira, além de ser algo individual de microexpressões para neutralizar a mentira.
+
+A terceira pergunta foi "um psicopata tem ou não expressão facial?", para saber se IA saberia sobre psicopatia as referencias utilizdas, em sua resposta fui surpreendida pois ela não encontrou muito sobre psicopatia mas afirmou que as expressoes facias são coisas universais e até pessoas cegas possuem.
+
+
