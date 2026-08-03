@@ -73,3 +73,14 @@ Mentira-Afirmação intencionalmente falsa ou enganosa.
 
 Contradição verbal e não verbal-Quando aquilo que a pessoa fala parece não combinar com seus comportamentos ou sinais corporais.
 dos comportamentos, levando em consideração o contexto e o conjunto de sinais.
+
+Prompts reutilizáveis
+
+“Quais sinais de linguagem corporal podem estar relacionados à alegria?"
+
+“Quais expressões faciais podem aparecer quando uma pessoa sente nojo?"
+
+“Como a comunicação não verbal pode transmitir sentimentos e informações sem usar palavras?”
+
+“Quais comportamentos podem aparecer quando uma pessoa está desconfortável ou tentando esconder algo?”
+
